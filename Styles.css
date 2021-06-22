@@ -1,0 +1,65 @@
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+#halloweenstore {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    color: orange;
+    font-style: italic;
+    text-shadow:3px 3px black;
+    text-indent: 50px;
+    
+}
+
+#goblin {
+    text-indent: 150px;
+}
+.firstletter {
+   font-size: 50px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    background-image: linear-gradient(to right,black,orange,white ) ;
+    border: 3px solid black;
+}
+li {
+    font-weight: bold;
+}
+a {
+    color: orange;
+
+}
+a :visited {
+    color: green;
+}
+li {
+    margin-top: 1em;
+}
+#MainBody {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+}
+body {
+    background-image: url(/Media/bats.gif);
+}
+header {
+    background-image: linear-gradient(to right,white,orange,black ) ;
+    border: 3px solid black;
+}
+#main-text {
+    padding: 10px;
+    margin-left: 160px;
+}
+.sidenav {
+    width: 160px; /* Set the width of the sidebar */
+    float: left;
+}
